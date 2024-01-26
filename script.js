@@ -44,6 +44,7 @@ async function getNextRandomQute() {
   startTimer()
 }
 
+
 let startDate
 
 function startTimer(){
